@@ -1,0 +1,8 @@
+Average: 87,0
+Highest: Ailin - 95
+
+Sorted Students (Highest to Lowest):
+Ailin - 95
+Nurdan - 90
+Ali - 85
+Daniel - 78
